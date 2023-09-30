@@ -9,7 +9,7 @@ interface Context {
   const socket = io(
     // 'http://chat-server',
     // 'http://127.0.0.1:8000',
-    'https://4a8a-133-95-140-220.ngrok-free.app/',
+    'https://fastchat-server.fly.dev',
     {transports: ['websocket', 'polling', 'flashsocket']}
 )
 

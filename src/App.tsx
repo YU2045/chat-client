@@ -7,7 +7,7 @@ import Grid from '@mui/material/Unstable_Grid2';
 import { css } from '@mui/material';
 import ThumbUpAltOutlinedIcon from '@mui/icons-material/ThumbUpAltOutlined';
 
-const URL = 'https://4a8a-133-95-140-220.ngrok-free.app/';
+const URL = 'https://fastchat-server.fly.dev';
 // const URL = 'http://127.0.0.1:8000';
 // const URL = 'http://chat-server';
 
